@@ -1,20 +1,20 @@
-# AI Paragraph Summarizer 📝
+# AI Paragraph Summarizer 
 
 A simple and clean **Streamlit web app** that summarizes text or PDF documents using an LLM powered by **Groq (LLaMA 3.1)**.
 
 ---
 
-## 🚀 Features
+## Features
 
-- ✍️ Paste text or upload **TXT / PDF**
-- 📏 Choose summary length (word limit)
-- ⚡ Fast summarization using Groq API
-- 📄 Clean, compact UI
-- ⬇️ Download summary as a text file
+- Paste text or upload **TXT / PDF**
+- Choose summary length (word limit)
+- Fast summarization using Groq API
+- Clean, compact UI
+- Download summary as a text file
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Python**
 - **Streamlit**
@@ -24,17 +24,21 @@ A simple and clean **Streamlit web app** that summarizes text or PDF documents u
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 .
+
 ├── app.py
+
 ├── requirements.txt
+
 ├── README.md
+
 └── .env (not pushed to GitHub)
 
 ---
 
-## 🔑 Environment Setup
+## Environment Setup
 
 Create a `.env` file in the project root:
 
